@@ -1,0 +1,373 @@
+*{
+	margin: 0 auto;
+	
+}
+.container{
+	width: 1140px;
+	margin: 0 auto;
+}
+header{
+	width: 100%;
+	float: left;
+	
+}
+
+
+.logo{
+	
+	width: 15%;
+	float: left;
+}
+
+.logo img{
+	width: 135px;
+	display: block;
+}
+
+.menu-bar{
+	width: 55%;
+	float: left;
+}
+
+
+nav{
+	
+}
+
+nav ul{
+	
+	list-style: none;
+	margin: 35px 0px;
+}
+nav ul li{
+	display: inline;
+	margin: 0 24px;
+	text-transform: uppercase;
+	font-size: 18px;
+}
+.social-icon{
+	width: 30%;
+	float: left;
+	margin:  30px 0;
+}
+
+.social-icon ul{
+	display: inline;
+}
+.social-icon ul li{
+	list-style: none;
+	margin: 0 5px;
+	display: inline;
+}
+
+.fa.fa-facebook{
+	background-color: #4554d9;
+	color: white;
+	font-size: 20px;
+	padding: 3px 8px;
+}
+.fa.fa-twitter{
+	background-color: #3eaae0;
+	color: white;
+	font-size: 20px;
+	padding: 3px 8px;
+}
+.fa.fa-linkedin{
+	background-color: #4d328f;
+	color: white;
+	font-size: 20px;
+	padding: 3px 8px;
+}
+.fa.fa-google-plus{
+	background-color: #9e0505;
+	color: white;
+	font-size: 20px;
+	padding: 3px 8px;
+}
+.fa.fa-sign-in{
+	color: #000000;
+	font-size: 25px;
+	padding: 3px 8px;
+}
+
+/*----banner----*/
+
+.hero{
+	background: url(../img/bg1.jpeg)no-repeat;
+	width: 100%;
+	float:left;
+	background-size: cover;
+}
+.banner{
+	width: 400px;
+	margin: 10% 10px;
+	text-align: center;
+	background-color: #99a4f9;
+	padding: 50px;
+	opacity: 
+	
+	
+}
+.banner h1{
+	margin: 10px auto;
+	padding-top: 10px;
+	font-size: 38px;
+	color: #000000;
+}
+
+.banner p{
+	margin: 10px auto;
+	font-size: 15px;
+}
+.banner-btn{
+	font-size: 17px;
+	background-color: green;
+	color: white;
+	margin: 0 12px;
+	
+}
+
+/*----FEATURE---*/
+.feature-one{
+	width: 25%;
+	float: left;
+	margin-top: 0px;
+	margin-bottom: 20px
+	
+	
+		
+}
+
+.feature-one ul{
+	
+	list-style: none;
+	
+}
+
+.feature-one ul li{
+	margin: 5px 30%;
+	font-size: 80px;
+	display: block;
+}
+
+.feature-one h2{
+	margin-left: 15px;
+	text-align: center;
+	margin-top: 10px;
+	margin-bottom: 30px;
+	
+}
+.feature-one p{
+	margin: 25px 5%;
+	text-align: left;
+	font-size: 18px;
+	
+	
+}
+.fa.fa-check-circle{
+	margin: 2px auto;
+	
+	text-align: center;
+	
+	padding: 15px 15px;
+}
+
+
+.read-more{
+	font-size: 17px;
+	background-color: green;
+	color: white;
+	margin-left: 38%;
+	
+}
+.feature-two{
+	width: 25%;
+	float: left;
+	margin-top: 0px;
+	margin-bottom: 20px
+}
+.feature-two h2{
+	margin-left: 15px;
+	text-align: center;
+	margin-top: 10px;
+	margin-bottom: 30px;
+	
+}
+.feature-two p{
+	margin: 25px 5%;
+	text-align: left;
+	font-size: 18px;
+	
+	
+}
+.feature-two ul{
+	list-style: none;
+}
+.feature-two ul li{
+	margin: 10px 34%;
+	display: block;
+		font-size: 40px;
+}
+.fa.fa-map-marker{
+	margin: 20px auto;
+	color: white;
+	text-align: center;
+
+	padding: 12px 20px;
+	background-color: seagreen;
+	border-radius: 49%; 
+}
+
+
+.feature-three{
+	width: 25%;
+	float: left;
+	margin-top: 0px;
+	margin-bottom: 20px
+}
+.feature-three h2{
+	margin-left: 15px;
+	text-align: center;
+	margin-top: 10px;
+	margin-bottom: 30px;
+	
+}
+.feature-three p{
+	margin: 25px 5%;
+	text-align: left;
+	font-size: 18px;
+	
+	
+}
+.feature-three ul{
+	list-style: none;
+}
+.feature-three ul li{
+	margin: 10px 34%;
+	display: block;
+	font-size: 35px;
+}
+.fa.fa-money{
+	margin: 20px auto;
+	color: white;
+	text-align: center;
+	
+	padding: 15px 15px;
+	background-color: green;
+	border-radius: 49%; 
+}
+
+
+.feature-four{
+	width: 25%;
+	float: left;
+	margin-top: 0px;
+	margin-bottom: 20px
+		
+}
+.feature-four h2{
+	margin-left: 15px;
+	text-align: center;
+	margin-top: 10px;
+	margin-bottom: 30px;
+	
+}
+.feature-four p{
+	margin: 25px 5%;
+	text-align: left;
+	font-size: 18px;
+	
+	
+}
+.feature-four ul{
+	list-style: none;
+}
+.feature-four ul li{
+	margin: 10px 34%;
+	font-size: 30px;
+	display: block;
+}
+.fa.fa-user-plus{
+	margin: 20px auto;
+	color: white;
+	text-align: center;
+	
+	padding: 15px 15px;
+	background-color: green;
+	border-radius: 49%; 
+}
+
+/*-----NEW SECTION---*/
+
+.featuretwo{
+	width: 100%;
+	float: left;
+}
+
+.money-invest{
+	width: 40%;
+	
+	float: left;
+	
+	margin: 10px 5%;
+	background-color:#B6C8C6;
+	padding-bottom: 30px;
+}
+.fa.fa-dot-circle-o{
+	margin-right: 10px;
+	color: green
+}
+
+.money-invest h2{
+	margin: 20px 29%
+		
+}
+.money-invest ul{
+	list-style: none;
+	
+	
+}
+.money-invest ul li{
+	
+	margin: 10px 15px;	
+	
+}
+.money-invest ul li a{
+	
+	color: black;	
+	
+}
+
+.invest-money{
+	width: 40%;
+	
+	float: left;
+	background-color: #B6C8C6;
+	margin: 10px 5%;
+	padding-bottom: 30px;
+}
+
+.invest-money h2{
+	margin: 20px 29%
+}
+
+.invest-money ul{
+	list-style: none;
+}
+.invest-money ul li{
+	margin: 10px 15px;
+}
+
+.becom-a-lender{
+	
+	background-color: green;
+	color: white;
+	margin-left:  12.5%;
+	
+}
+
+.invest-money ul li a{
+	color: black;
+}
+
+
